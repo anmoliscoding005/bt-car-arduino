@@ -33,6 +33,3 @@ Each command moves the car for a fixed short duration (like 500 ms or 100 ms) an
 
 ## 💻 Arduino Code
 The code is available in `bt_car.ino`.
-
-## 🧠 Author
-Prepared for school robotics project.
